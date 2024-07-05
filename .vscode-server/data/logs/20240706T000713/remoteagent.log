@@ -1,0 +1,11 @@
+2024-07-06 00:07:13.265 [info] 
+
+
+
+
+2024-07-06 00:07:13.265 [info] Extension host agent started.
+2024-07-06 00:07:13.299 [info] Started initializing default profile extensions in extensions installation folder. file:///home/ngozika/.vscode-server/extensions
+2024-07-06 00:07:13.337 [info] Completed initializing default profile extensions in extensions installation folder. file:///home/ngozika/.vscode-server/extensions
+2024-07-06 00:07:13.445 [info] [127.0.0.1][bec4e4c8][ManagementConnection] New connection established.
+2024-07-06 00:07:14.136 [info] [127.0.0.1][1b557281][ExtensionHostConnection] New connection established.
+2024-07-06 00:07:14.148 [info] [127.0.0.1][1b557281][ExtensionHostConnection] <94835> Launched Extension Host Process.
