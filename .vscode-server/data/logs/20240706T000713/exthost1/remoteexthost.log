@@ -479,3 +479,42 @@
 	at async T.getBranchBase (/home/ngozika/.vscode-server/bin/ea1445cc7016315d0f5728f8e8b12a45dc0a7286/extensions/git/dist/main.js:2:1016341)
 	at async t.GitHistoryProvider.resolveHEADMergeBase (/home/ngozika/.vscode-server/bin/ea1445cc7016315d0f5728f8e8b12a45dc0a7286/extensions/git/dist/main.js:2:945804)
 	at async t.GitHistoryProvider.onDidRunGitStatus (/home/ngozika/.vscode-server/bin/ea1445cc7016315d0f5728f8e8b12a45dc0a7286/extensions/git/dist/main.js:2:940157)
+2024-07-06 00:21:11.397 [warning] [Decorations] CAPPING events from decorations provider vscode.git 1323
+2024-07-06 00:21:12.410 [error] Error: No such branch: master.
+	at F.getBranch (/home/ngozika/.vscode-server/bin/ea1445cc7016315d0f5728f8e8b12a45dc0a7286/extensions/git/dist/main.js:2:935457)
+	at async T.retryRun (/home/ngozika/.vscode-server/bin/ea1445cc7016315d0f5728f8e8b12a45dc0a7286/extensions/git/dist/main.js:2:1028070)
+	at async T.run (/home/ngozika/.vscode-server/bin/ea1445cc7016315d0f5728f8e8b12a45dc0a7286/extensions/git/dist/main.js:2:1027674)
+	at async T.getBranch (/home/ngozika/.vscode-server/bin/ea1445cc7016315d0f5728f8e8b12a45dc0a7286/extensions/git/dist/main.js:2:1016055)
+	at async T.getBranchBase (/home/ngozika/.vscode-server/bin/ea1445cc7016315d0f5728f8e8b12a45dc0a7286/extensions/git/dist/main.js:2:1016341)
+	at async t.GitHistoryProvider.resolveHEADMergeBase (/home/ngozika/.vscode-server/bin/ea1445cc7016315d0f5728f8e8b12a45dc0a7286/extensions/git/dist/main.js:2:945804)
+	at async t.GitHistoryProvider.onDidRunGitStatus (/home/ngozika/.vscode-server/bin/ea1445cc7016315d0f5728f8e8b12a45dc0a7286/extensions/git/dist/main.js:2:940157)
+2024-07-06 00:21:16.429 [warning] [Decorations] CAPPING events from decorations provider vscode.git 1323
+2024-07-06 00:21:17.431 [error] Error: No such branch: master.
+	at F.getBranch (/home/ngozika/.vscode-server/bin/ea1445cc7016315d0f5728f8e8b12a45dc0a7286/extensions/git/dist/main.js:2:935457)
+	at async T.retryRun (/home/ngozika/.vscode-server/bin/ea1445cc7016315d0f5728f8e8b12a45dc0a7286/extensions/git/dist/main.js:2:1028070)
+	at async T.run (/home/ngozika/.vscode-server/bin/ea1445cc7016315d0f5728f8e8b12a45dc0a7286/extensions/git/dist/main.js:2:1027674)
+	at async T.getBranch (/home/ngozika/.vscode-server/bin/ea1445cc7016315d0f5728f8e8b12a45dc0a7286/extensions/git/dist/main.js:2:1016055)
+	at async T.getBranchBase (/home/ngozika/.vscode-server/bin/ea1445cc7016315d0f5728f8e8b12a45dc0a7286/extensions/git/dist/main.js:2:1016341)
+	at async t.GitHistoryProvider.resolveHEADMergeBase (/home/ngozika/.vscode-server/bin/ea1445cc7016315d0f5728f8e8b12a45dc0a7286/extensions/git/dist/main.js:2:945804)
+	at async t.GitHistoryProvider.onDidRunGitStatus (/home/ngozika/.vscode-server/bin/ea1445cc7016315d0f5728f8e8b12a45dc0a7286/extensions/git/dist/main.js:2:940157)
+2024-07-06 00:21:21.482 [warning] [Decorations] CAPPING events from decorations provider vscode.git 1323
+2024-07-06 00:21:22.487 [error] Error: No such branch: master.
+	at F.getBranch (/home/ngozika/.vscode-server/bin/ea1445cc7016315d0f5728f8e8b12a45dc0a7286/extensions/git/dist/main.js:2:935457)
+	at async T.retryRun (/home/ngozika/.vscode-server/bin/ea1445cc7016315d0f5728f8e8b12a45dc0a7286/extensions/git/dist/main.js:2:1028070)
+	at async T.run (/home/ngozika/.vscode-server/bin/ea1445cc7016315d0f5728f8e8b12a45dc0a7286/extensions/git/dist/main.js:2:1027674)
+	at async T.getBranch (/home/ngozika/.vscode-server/bin/ea1445cc7016315d0f5728f8e8b12a45dc0a7286/extensions/git/dist/main.js:2:1016055)
+	at async T.getBranchBase (/home/ngozika/.vscode-server/bin/ea1445cc7016315d0f5728f8e8b12a45dc0a7286/extensions/git/dist/main.js:2:1016341)
+	at async t.GitHistoryProvider.resolveHEADMergeBase (/home/ngozika/.vscode-server/bin/ea1445cc7016315d0f5728f8e8b12a45dc0a7286/extensions/git/dist/main.js:2:945804)
+	at async t.GitHistoryProvider.onDidRunGitStatus (/home/ngozika/.vscode-server/bin/ea1445cc7016315d0f5728f8e8b12a45dc0a7286/extensions/git/dist/main.js:2:940157)
+2024-07-06 00:21:26.521 [warning] [Decorations] CAPPING events from decorations provider vscode.git 1323
+2024-07-06 00:21:27.525 [error] Error: No such branch: master.
+	at F.getBranch (/home/ngozika/.vscode-server/bin/ea1445cc7016315d0f5728f8e8b12a45dc0a7286/extensions/git/dist/main.js:2:935457)
+	at async T.retryRun (/home/ngozika/.vscode-server/bin/ea1445cc7016315d0f5728f8e8b12a45dc0a7286/extensions/git/dist/main.js:2:1028070)
+	at async T.run (/home/ngozika/.vscode-server/bin/ea1445cc7016315d0f5728f8e8b12a45dc0a7286/extensions/git/dist/main.js:2:1027674)
+	at async T.getBranch (/home/ngozika/.vscode-server/bin/ea1445cc7016315d0f5728f8e8b12a45dc0a7286/extensions/git/dist/main.js:2:1016055)
+	at async T.getBranchBase (/home/ngozika/.vscode-server/bin/ea1445cc7016315d0f5728f8e8b12a45dc0a7286/extensions/git/dist/main.js:2:1016341)
+	at async t.GitHistoryProvider.resolveHEADMergeBase (/home/ngozika/.vscode-server/bin/ea1445cc7016315d0f5728f8e8b12a45dc0a7286/extensions/git/dist/main.js:2:945804)
+	at async t.GitHistoryProvider.onDidRunGitStatus (/home/ngozika/.vscode-server/bin/ea1445cc7016315d0f5728f8e8b12a45dc0a7286/extensions/git/dist/main.js:2:940157)
+2024-07-06 00:21:31.552 [warning] [Decorations] CAPPING events from decorations provider vscode.git 1323
+2024-07-06 01:01:50.699 [info] ExtensionService#_doActivateExtension vscode.markdown-language-features, startup: false, activationEvent: 'onLanguage:markdown'
+2024-07-06 01:01:52.239 [info] ExtensionService#_doActivateExtension vscode.markdown-math, startup: false, activationEvent: 'api', root cause: vscode.markdown-language-features
